@@ -1,9 +1,9 @@
 <?php
 namespace spec;
 
-use PHPSpec2\ObjectBehavior,
-    PHPSpec2\Event\SpecificationEvent,
-    PHPSpec2\Event\ExampleEvent;
+use PHPSpec\ObjectBehavior,
+    PHPSpec\Event\SpecificationEvent,
+    PHPSpec\Event\ExampleEvent;
 
 class TeamCityPhpspecListener extends ObjectBehavior
 {
