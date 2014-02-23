@@ -1,13 +1,13 @@
 <?php
 namespace spec;
 
-use PHPSpec2\ObjectBehavior;
+use PHPSpec\ObjectBehavior;
 
 class TeamCityPhpspecExtension extends ObjectBehavior
 {
 
     /**
-     * @param \PHPSpec2\ServiceContainer $container
+     * @param \PHPSpec\ServiceContainer $container
      */
     function it_adds_event_listener_on_initialization($container)
     {
