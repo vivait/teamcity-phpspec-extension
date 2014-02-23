@@ -1,8 +1,8 @@
 <?php
 
-use PHPSpec2\Event\SpecificationEvent,
-    PHPSpec2\Event\ExampleEvent,
-    PHPSpec2\Console\IO,
+use PHPSpec\Event\SpecificationEvent,
+    PHPSpec\Event\ExampleEvent,
+    PHPSpec\Console\IO,
     Symfony\Component\EventDispatcher\EventSubscriberInterface;
 
 class TeamCityPhpspecListener implements EventSubscriberInterface
