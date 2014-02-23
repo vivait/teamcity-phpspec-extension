@@ -1,7 +1,7 @@
 <?php
 
-use PHPSpec2\Extension\ExtensionInterface,
-    PHPSpec2\ServiceContainer;
+use PHPSpec\Extension\ExtensionInterface,
+    PHPSpec\ServiceContainer;
 
 class TeamCityPhpspecExtension implements ExtensionInterface
 {
