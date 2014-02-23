@@ -1,5 +1,5 @@
 {
-    "name": "pawel-grzona/teamcity-phpspec-extension",
+    "name": "vivait/teamcity-phpspec-extension",
     "description": "Makes TeamCity display phpspec execution results in real-time.",
     "keywords": ["teamcity", "phpspec", "extension"],
     "license": "MIT",
